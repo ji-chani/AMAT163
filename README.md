@@ -9,3 +9,6 @@ Solving a TSP using Simulated Annealing
 
 ## Exercise 4
 Solving a Knapsack Problem using Tabu Search
+
+## Exercise 5
+Solving a NonLinear Optimization Problem using Harmony Search
